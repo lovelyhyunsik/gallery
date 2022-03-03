@@ -13,6 +13,7 @@ $container.masonry({
     // options
     itemSelector: '.gallery-item',
     columnWidth: 210,
+    gutter:40
   });
 
 function initGallery(data){
